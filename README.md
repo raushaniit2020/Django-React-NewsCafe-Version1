@@ -1,4 +1,4 @@
-#Django-React-NewsCafe-Version1
+# Django-React-NewsCafe-Version1
 
 Created two version of this WebApp, that has a subtle difference.One version uses news from newsapi.org sent by backend & other uses news from Database of backend.
 
